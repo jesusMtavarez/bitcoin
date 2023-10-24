@@ -1,0 +1,18 @@
+
+.product-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930;
+    margin: 0 auto;
+} 
+.product-cards-container-preguntas {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930;
+    margin: 0 auto;
+} 
+
+.palns-container-slider {
+    justify-content: center;
+
+}
